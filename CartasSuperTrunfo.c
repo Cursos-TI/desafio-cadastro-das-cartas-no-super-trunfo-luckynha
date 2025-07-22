@@ -119,7 +119,7 @@ int main() {
     printf("*****Comparação de Cartas*****\n");
     printf("Considere que resultado (1) a carta 1 vence, e resultado (0) a carta 2 vence\n");
     printf("População: %d\n", comparacaoHabitantes);
-    printf("Área: %d\n", comparacaoArea);
+    printf("Área: %.2f\n", comparacaoArea);
     printf("PIB: %.2f\n", comparacaoPib);
     printf("Pontos Turísticos: %.2f\n", comparacaoPontosTuristicos);
     printf("Densidade Populacional: %.2f\n", comparacaoDensidadePopulacional);
