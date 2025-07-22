@@ -121,7 +121,7 @@ int main() {
     printf("População: %.2f\n", comparacaoHabitantes);
     printf("Área: %.2f\n", comparacaoArea);
     printf("PIB: %.2f\n", comparacaoPib);
-    printf("Pontos Turísticos: %d\n", comparacaoPontosTuristicos);
+    printf("Pontos Turísticos: %.2f\n", comparacaoPontosTuristicos);
     printf("Densidade Populacional: %.2f\n", comparacaoDensidadePopulacional);
     printf("PIB Per Capita: %.2f\n", comparacaoPibPerCapita);
     printf("Super Poder: %.2f\n", comparacaoSuperPoder);
